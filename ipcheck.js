@@ -8,7 +8,7 @@ $httpClient.get(url, function(error, response, data){
     let isp = jsonData.isp
     let ip = jsonData.query
   body = {
-    title: "节点详情",
+    title: "proxy",
     content: `IP信息：${ip}\n运营商：${isp}\n所在地：${emoji}${country} - ${city}`,
     icon: "antenna.radiowaves.left.and.right.circle.fill"
   }
