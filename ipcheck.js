@@ -8,10 +8,10 @@ $httpClient.get(url, function(error, response, data){
     let isp = jsonData.isp
     let ip = jsonData.query
   body = {
-    title: "proxy",
+    title: "节点详情",
     content: `IP信息：${ip}\n运营商：${isp}\n所在地：${emoji}${country} - ${city}`,
-    icon: "antenna.radiowaves.left.and.right.circle.fill"
-    'icon-color': '#002FA7',  
+    icon: "antenna.radiowaves.left.and.right.circle.fill",
+    "icon-color": "#002FA7",  
   }
   $done(body);
 });
