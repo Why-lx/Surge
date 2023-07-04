@@ -20,14 +20,15 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
 DOMAIN-KEYWORD,pinterest
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,Pornhub
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,linkedin.com
