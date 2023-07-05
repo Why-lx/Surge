@@ -16,17 +16,15 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
-DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,Pornhub
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,yahoo
