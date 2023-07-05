@@ -20,6 +20,26 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,blogspot
@@ -32,6 +52,7 @@ DOMAIN-KEYWORD,Pornhub
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,discord
 # TikTok
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
