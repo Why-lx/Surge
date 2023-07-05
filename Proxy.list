@@ -94,8 +94,5 @@ IP-CIDR,5.28.192.0/18,no-resolve
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,onedrive.live.com
