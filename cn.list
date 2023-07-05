@@ -28,6 +28,17 @@ DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
 DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
+# >> Microsoft
+DOMAIN-KEYWORD,officecdn
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,outlook
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
 # China
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
