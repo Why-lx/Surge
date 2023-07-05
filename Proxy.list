@@ -1,3 +1,5 @@
+# --- General Global Services ---
+# Other
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
@@ -14,6 +16,7 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
 DOMAIN-SUFFIX,cloudfront.net
@@ -29,8 +32,7 @@ DOMAIN-KEYWORD,Pornhub
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,dropbox
-
-# >> TikTok
+# TikTok
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
@@ -44,8 +46,7 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
-
-# > Apple
+# Apple
 DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN-SUFFIX,smoot.apple.com // Spotlight
@@ -54,17 +55,7 @@ DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
-# > News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
-
-# > Telegram
+# Telegram
 DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
@@ -85,9 +76,3 @@ IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
-
-# > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,windows.net
