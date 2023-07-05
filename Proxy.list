@@ -12,36 +12,31 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN_SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudfront.net // AWS CDN
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,amp.dev
-DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,mega.nz
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytco.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,blogspot
@@ -55,6 +50,7 @@ DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,nytimes
 # TikTok
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
