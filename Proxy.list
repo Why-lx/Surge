@@ -54,11 +54,6 @@ DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news
@@ -95,5 +90,4 @@ IP-CIDR,5.28.192.0/18,no-resolve
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.net
