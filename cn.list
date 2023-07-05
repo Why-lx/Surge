@@ -32,10 +32,14 @@ USER-AGENT,com.apple.appstored* // iOS App Store
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,outlook
+DOMAIN-KEYWORD,onedrive
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
