@@ -2,23 +2,25 @@
 # Other
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ampproject.org
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,appspot.com
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,amplitude.com // PDF Expert
 DOMAIN-SUFFIX,appcenter.ms // PDF Expert
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,vimeo.com
