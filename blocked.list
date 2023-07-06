@@ -44,3 +44,53 @@ DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,nytimes
+# TikTok
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+USER-AGENT,TikTok*
+# Apple
+DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN-SUFFIX,smoot.apple.com // Spotlight
+DOMAIN,amp-api.podcasts.apple.com // Podcasts
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,lookup-api.apple.com // Look Up
+DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# Telegram
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.164.0/22,no-resolve
+IP-CIDR,149.154.172.0/22,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
+# > Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
