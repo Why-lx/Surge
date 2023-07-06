@@ -18,4 +18,29 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,ytimg.com
-
+DOMAIN-SUFFIX,amplitude.com // PDF Expert
+DOMAIN-SUFFIX,appcenter.ms // PDF Expert
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN_SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-KEYWORD,behance
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,Pornhub
+DOMAIN-KEYWORD,91porn
+DOMAIN-KEYWORD,yahoo
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,nytimes
