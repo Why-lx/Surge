@@ -19,8 +19,8 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,amplitude.com // PDF Expert
-DOMAIN-SUFFIX,appcenter.ms // PDF Expert
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,adobe.com
