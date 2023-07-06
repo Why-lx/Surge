@@ -1,17 +1,49 @@
-# >> Google
+DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,getoutline.org
-# > YouTube
+DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,amplitude.com // PDF Expert
+DOMAIN-SUFFIX,appcenter.ms // PDF Expert
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN_SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-KEYWORD,behance
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,Pornhub
+DOMAIN-KEYWORD,91porn
+DOMAIN-KEYWORD,yahoo
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,nytimes
 # > Telegram
 DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,t.me
@@ -33,37 +65,12 @@ IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
-# >> Facebook
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-KEYWORD,facebook
-# > Twitter
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-# > Pinterest
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-KEYWORD,.pinterest.
 # > pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
@@ -82,31 +89,3 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
-# Other
-DOMAIN-SUFFIX,tw
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,avgle.com
-DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amplitude.com // PDF Expert
-DOMAIN-SUFFIX,appcenter.ms // PDF Expert
-DOMAIN-SUFFIX,bbc.com
-DOMAIN_SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,flickr.com
-DOMAIN-SUFFIX,theinitium.com
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-KEYWORD,behance
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,Pornhub
-DOMAIN-KEYWORD,91porn
-DOMAIN-KEYWORD,yahoo
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,nytimes
