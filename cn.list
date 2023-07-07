@@ -12,9 +12,6 @@ IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 # Apple
-DOMAIN,xp.apple.com // iOS & macOS System Upgrade
-DOMAIN-SUFFIX,ls.apple.com // Apple Maps
-DOMAIN-SUFFIX,store.apple.com // Apple Store Online
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
@@ -24,27 +21,16 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,ls.apple.com // Apple Maps
 DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
 DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
-# >> Microsoft
-DOMAIN-KEYWORD,officecdn
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,outlook
-DOMAIN-KEYWORD,onedrive
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windowsupdate.com
 # China
 DOMAIN-SUFFIX,CN
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--io0a7i
 DOMAIN-KEYWORD,baidu
 # Downloader
 PROCESS-NAME,aria2c
