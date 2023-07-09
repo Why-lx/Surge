@@ -3,6 +3,7 @@ USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 USER-AGENT,MApi* // Dianping
 # Ali
+USER-AGENT,elema*
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
@@ -27,9 +28,6 @@ PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
 # China
 DOMAIN-SUFFIX,CN
-DOMAIN-SUFFIX,xn--fiqs8s
-DOMAIN-SUFFIX,xn--55qx5d
-DOMAIN-SUFFIX,xn--io0a7i
 DOMAIN-KEYWORD,baidu
 # Downloader
 PROCESS-NAME,aria2c
